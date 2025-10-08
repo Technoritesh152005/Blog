@@ -1,0 +1,5 @@
+first problem is 
+no proper ui the width is not full
+2.after signup it dont redirect to login but says login to read post.
+3.in login we login we dont see post of it whereas i think it i in database
+4.when submit click in add post we dont get feel like submitted or not
